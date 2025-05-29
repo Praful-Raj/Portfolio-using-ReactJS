@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "title": "Shop For Home",
+    "imageSrc": "projects/shopforhome.jpg",
+    "description": "This is a project made with complete Spring boot, AngularJS.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Praful-Raj/Capstone-Project-G11"
+  },
+  {
+    "key": 2,
+    "title": "Myntra Clone",
+    "imageSrc": "projects/myntraclone.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Praful-Raj/Myntra-Clone"
+  },
+  {
+    "key": 3,
+    "title": "Smart Travel using IoT",
+    "imageSrc": "projects/smarttravel.jpg",
+    "description": "This is a project made with Arduino, C++, IoT.",
+    "demo": "https://www.example.com",
+    "source": "https://praful-raj.github.io/Personal-Site/Potholes-and-Humps-detection.pdf"
+  },
+  {
+    "key": 4,
+    "title": "Portfolio Using HTML, CSS",
+    "imageSrc": "projects/portfolio.png",
+    "description": "This is a project made with only Html CSS.",
+    "demo": "https://praful-raj.github.io/Personal-Site/",
+    "source": "https://github.com/Praful-Raj/Personal-Site"
+  }
+]

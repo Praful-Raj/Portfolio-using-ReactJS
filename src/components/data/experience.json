@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Project Engineer",
+    "organisation": "Wipro Limited",
+    "startDate": "March, 2023",
+    "endDate": "Present",
+    "location": "Greater Noida, Uttar Pradesh",
+    "experiences": [
+      "Worked on Java, Spring Boot Project",
+      "Worked on migration of prebuild application"
+    ],
+    "imageSrc": "company/wipro.png"
+  },
+  {
+    "id": 2,
+    "role": "Java GCP - Intern",
+    "organisation": "Wipro Limited",
+    "startDate": "May, 2022",
+    "endDate": ",Sep 2022",
+    "location": "Virtual",
+    "experiences": [
+      "Worked on Spring Boot, MySQL, and DevOps tools (Docker, Jenkins, Git).",
+      "Created a full fledged web application with its deployment in GCP"
+    ],
+    "imageSrc": "company/wipro.png"
+  }
+]
