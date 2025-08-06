@@ -22,7 +22,7 @@ const Experience = () => {
                   <h2>{data.role}</h2>
                   <h4>
                     <span style={{ color: "yellowgreen" }}>
-                      {data.startDate} {data.endDate}{" "}
+                      {data.startDate} - {data.endDate}{" "}
                     </span>{" "}
                     <span style={{ color: "yellow" }}>{data.location}</span>
                   </h4>
