@@ -1,10 +1,23 @@
 [
   {
     "id": 1,
+    "role": "Software Development Engineer",
+    "organisation": "ESQ Data Solutions",
+    "startDate": "July, 2025",
+    "endDate": "Present",
+    "location": "Noida",
+    "experiences": [
+      "Worked on product based on Java, Spring MVC, MSSql, GitLab, Camel, Drools."
+      
+    ],
+    "imageSrc": "company/esq.png"
+  },
+  {
+    "id": 2,
     "role": "Project Engineer",
     "organisation": "Wipro Limited",
     "startDate": "March, 2023",
-    "endDate": "Present",
+    "endDate": "July, 2025",
     "location": "Greater Noida, Uttar Pradesh",
     "experiences": [
       "Worked on Java, Spring Boot Project",
@@ -13,7 +26,7 @@
     "imageSrc": "company/wipro.png"
   },
   {
-    "id": 2,
+    "id": 3,
     "role": "Java GCP - Intern",
     "organisation": "Wipro Limited",
     "startDate": "May, 2022",
